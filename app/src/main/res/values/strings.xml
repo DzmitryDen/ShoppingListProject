@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <!-- Login Screen -->
+    <string name="shopping_list_app">Shopping list app</string>">
+    <string name="sign_in">Sign In</string>">
+    <string name="sign_up">Sign Up</string>">
+    <string name="login">Login</string>">
+    <string name="password">Password</string>">
+</resources>

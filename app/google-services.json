@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725899527548",
+    "project_id": "shoppinglist-7ef2b",
+    "storage_bucket": "shoppinglist-7ef2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725899527548:android:114b9c6b9978d69a1510f9",
+        "android_client_info": {
+          "package_name": "com.hfad.shoppinglist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5DaEqZrULAf3PymT3nmZ9YRxk_c_GLSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
